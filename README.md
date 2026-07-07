@@ -1,13 +1,26 @@
 # 🩺 VitalMind AI
 
-**Plataforma Inteligente de Salud Integral con Inteligencia Artificial**
 
-![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-0F766E)
-![Proyecto](https://img.shields.io/badge/Proyecto-Académico-blue)
-![Versionamiento](https://img.shields.io/badge/Versionamiento-GitHub%20Flow-orange)
+
+<h1 align="center">🩺 VitalMind AI</h1>
+
+<p align="center">
+  <strong>Plataforma Inteligente de Salud Integral con Inteligencia Artificial</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-En%20desarrollo-0F766E" alt="Estado">
+  <img src="https://img.shields.io/badge/Proyecto-Académico-blue" alt="Proyecto">
+  <img src="https://img.shields.io/badge/Versionamiento-GitHub%20Flow-orange" alt="Versionamiento">
+</p>
 
 ---
+---
+## 🧠 Logo del Proyecto
 
+![Logo VitalMind AI](VitalMind.png)
+
+---
 ## 📖 Descripción breve
 
 **VitalMind AI** es una plataforma web inteligente de salud integral que permite a los usuarios gestionar su historial médico, registrar síntomas y hábitos saludables, monitorear su bienestar físico y emocional, recibir recomendaciones orientativas mediante Inteligencia Artificial y utilizar un chatbot inteligente de apoyo.
@@ -66,8 +79,8 @@ Desarrollar una plataforma web inteligente de salud integral que permita a los u
 | Área | Tecnología |
 |---|---|
 | Frontend | React.js, HTML5, CSS3, JavaScript |
-| Backend | Node.js, Express.js |
-| Base de datos | MongoDB |
+| Backend | Python |
+| Base de datos | MongoDB/MySql |
 | Inteligencia Artificial | Python, API de IA |
 | Diseño UX/UI | Figma |
 | Gestión de proyecto | Jira |
@@ -132,14 +145,14 @@ Cada integrante desarrolla su funcionalidad en una rama independiente y posterio
 
 ## 👨‍💻 Colaboradores
 
-| Integrante | Participación general |
-|---|---|
-| Obed Guzmán Flores | Documentación, autenticación, organización del repositorio e integración del proyecto |
-| Michelle Castro Otero | Registro de síntomas y apoyo documental |
-| Yazmin Gutiérrez Hernández | Historial médico y diseño UX/UI |
-| Carlos Daniel García Pluma | Chatbot inteligente con IA |
-| Citlalli Pérez Dionicio | Pruebas funcionales y validación |
-| Jennifer Bautista Barrios | Recomendaciones mediante IA y apoyo documental |
+| Integrante |
+|---|
+| Obed Guzmán Flores |
+| Michelle Castro Otero |
+| Yazmin Gutiérrez Hernández |
+| Carlos Daniel García Pluma |
+| Citlalli Pérez Dionicio |
+| Jennifer Bautista Barrios |
 
 ---
 
