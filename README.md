@@ -23,17 +23,7 @@
   <img src="assets/branding/neurovialabs_logo_optimizado.png" alt="NeuroviaLabs" width="300">
 </p>
 
-<p align="center">
-  <strong>VitalMind AI</strong>
-  &nbsp;&nbsp;&nbsp;×&nbsp;&nbsp;&nbsp;
-  <strong>NeuroviaLabs</strong>
-</p>
 
-<p align="center">
-  Aplicación complementada con smartwatch para recopilar, organizar y analizar
-  <br>
-  mediciones, actividad física, descanso, medicamentos, síntomas y hábitos.
-</p>
 
 
 ---
