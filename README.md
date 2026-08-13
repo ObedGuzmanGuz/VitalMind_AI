@@ -20,9 +20,8 @@
 <p align="center">
   <img src="assets/branding/vitalmind_logo.png" alt="VitalMind AI" width="300">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/branding/neurovialabs_logo_optimizado.png" alt="NeuroviaLabs" width="300">
+  <img src="assets/branding/neurovialabs_logo_.png" alt="NeuroviaLabs" width="300">
 </p>
-
 
 
 
@@ -210,11 +209,10 @@ VitalMind AI contempla trabajar con diferentes tipos de información:
 | 🗂️ Control de versiones | Git                      | 
 | 🌐 Repositorio           | GitHub                   |
 | 🎨 Diseño                | Figma                    |
-| 📋 Gestión               | Jira                     |
 | ⚙️ Backend               | Node.js + Express.js     |
 | 🐍 IA / análisis         | Python                   |
-| 🚀 API de IA             | FastAPI / Flask          |
-| 🗄️ Base de datos        | MongoDB                  | 
+| 🚀 API de IA             | FastAPI         |
+| 🗄️ Base de datos        | MySQL                  | 
 | 🔄 Comunicación          | WebSocket / Socket.IO    |
 | 🐳 Contenedores          | Docker                   |
 | ☁️ Cloud                 | Servicios de nube        | 
@@ -397,14 +395,14 @@ La documentación del proyecto contempla diferentes áreas de gestión:
 
 # 👥 Equipo
 
-| Integrante                     |                         |
-| ------------------------------ | ----------------------- |
-| **Yazmin Gutierrez Hernandez** | Desarrollo del proyecto |
-| **Obed Guzmán Flores**         | Desarrollo del proyecto |
-| **Citlalli Perez Dionicio**    | Desarrollo del proyecto |
-| **Michelle Castro Otero**      | Desarrollo del proyecto |
-| **Carlos Daniel Garcia Pluma** | Desarrollo del proyecto |
-| **Jennifer Bautista Barrios**  | Desarrollo del proyecto |
+| Integrante                     | 
+| ------------------------------ | 
+| **Yazmin Gutierrez Hernandez** | 
+| **Obed Guzmán Flores**         | 
+| **Citlalli Perez Dionicio**    | 
+| **Michelle Castro Otero**      | 
+| **Carlos Daniel Garcia Pluma** | 
+| **Jennifer Bautista Barrios**  | 
 
 Los roles específicos y la gestión de recursos humanos se encuentran documentados en:
 
@@ -418,11 +416,11 @@ Los roles específicos y la gestión de recursos humanos se encuentran documenta
 
 **Carrera:** Ingeniería en Desarrollo y Gestión de Software
 
-**Grupo:** 7A
+**Grupo:** 9A
 
 **Periodo:** Mayo – Agosto 2026
 
-**Empresa ficticia:** NeuroviaLabs
+**Empresa :** NeuroviaLabs
 
 
 ---
@@ -450,7 +448,7 @@ Por lo tanto:
 
 ### NeuroviaLabs
 
-**Empresa ficticia bajo la cual se desarrolla el proyecto académico.**
+**Empresa  bajo la cual se desarrolla el proyecto académico.**
 
 ---
 
