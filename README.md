@@ -308,12 +308,10 @@ Las alertas y análisis generados por la plataforma tienen carácter **informati
 VitalMind_AI_Corregido/
 │
 ├── 📄 README.md
-├── 📄 REPORTE_CAMBIOS.md
 │
 ├── assets/
 │   └── branding/
-│       ├── neurovialabs_logo_original.png
-│       ├── neurovialabs_logo_optimizado.png
+│       ├── neurovialabs_logo_.png
 │       └── vitalmind_logo.png
 │
 └── docs/
@@ -336,9 +334,8 @@ VitalMind_AI_Corregido/
     ├── 16-riesgos/
     ├── 17-plan-pruebas/
     ├── 18-cierre/
-    │
-    └── evidencias/
-        └── reuniones/
+    |── 19-evidencias/
+
 ```
 
 ---
@@ -365,6 +362,7 @@ VitalMind_AI_Corregido/
 | 16 | Riesgos                  | [Ver documento](docs/16-riesgos/Gestion_Riesgos_VitalMindAI.docx)                          |
 | 17 | Plan de pruebas          | [Ver documento](docs/17-plan-pruebas/Plan_Pruebas_VitalMindAI.docx)                        |
 | 18 | Cierre                   | [Ver documento](docs/18-cierre/Plantilla_Cierre_VitalMindAI.docx)                          |
+| 19 | Evidencias                   | [Ver documento](docs/19-evidencias/reuniones)                          |
 
 ---
 
