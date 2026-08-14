@@ -361,7 +361,7 @@ VitalMind_AI_Corregido/
 | 15 | Calidad                  | [Ver documento](docs/15-calidad/Gestion_Calidad_VitalMindAI.docx)                          |
 | 16 | Riesgos                  | [Ver documento](docs/16-riesgos/Gestion_Riesgos_VitalMindAI.docx)                          |
 | 17 | Plan de pruebas          | [Ver documento](docs/17-plan-pruebas/Plan_Pruebas_VitalMindAI.docx)                        |
-| 18 | Cierre                   | [Ver documento](docs/18-cierre/Plantilla_Cierre_VitalMindAI.docx)                          |
+| 18 | Cierre                   | [Ver documento](docs/18-cierre/Cierre_Proyecto_VitalMindAI.docx)                          |
 | 19 | Evidencias                   | [Ver documento](docs/19-evidencias/reuniones)                          |
 
 ---
